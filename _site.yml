@@ -1,0 +1,16 @@
+name: "WFU Update - LTC@Duke"
+output_dir: "docs"
+navbar:
+  title: "WFU Update - LTC@Duke"
+output:
+  html_document:
+    theme: journal
+    highlight: textmate
+    css: css/tufte.css
+    df_print: paged
+    toc: true
+    toc_float: yes
+    bibliography: library.bib
+    biblio-style: apalike
+    include:
+      after_body: footer.html
