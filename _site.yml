@@ -1,7 +1,7 @@
 name: "WFU Update - LTC@Duke"
 output_dir: "docs"
 navbar:
-  title: "WFU Update - LTC@Duke"
+  title: "WFU Update - LTC at Duke"
    right:
   - text: "WFU Update"
     icon: fa-book
