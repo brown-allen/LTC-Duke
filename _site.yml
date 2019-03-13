@@ -2,6 +2,10 @@ name: "WFU Update - LTC@Duke"
 output_dir: "docs"
 navbar:
   title: "WFU Update - LTC@Duke"
+   right:
+  - text: "WFU Update"
+    icon: fa-book
+    href: WFU_update.html
 output:
   html_document:
     theme: journal
@@ -10,7 +14,3 @@ output:
     df_print: paged
     toc: true
     toc_float: yes
-    bibliography: library.bib
-    biblio-style: apalike
-    include:
-      after_body: footer.html

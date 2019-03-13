@@ -1,5 +1,5 @@
 ---
-title: "WFU Update - LTC@Duke"
+title: "WFU Update - LTC at Duke"
 author: "Allen S. Brown"
 date: "March 20th, 2019"
 output:
