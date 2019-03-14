@@ -1,5 +1,4 @@
 name: "WFU Update - LTC at Duke"
-output_dir: "_site"
 navbar:
   title: "WFU Update - LTC at Duke"
   right:
