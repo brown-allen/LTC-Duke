@@ -1,0 +1,12 @@
+name: "WFU Update - LTC at Duke"
+navbar:
+  title: "WFU Update - LTC at Duke"
+  right:
+  - text: "WFU Update"
+    icon: fa-book
+    href: WFU_update.html
+output:
+  html_document:
+    theme: journal
+    highlight: textmate
+    css: css/tufte.css
