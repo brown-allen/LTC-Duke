@@ -43,7 +43,7 @@ One effort to engage the broader campus community through a grassroots approach 
 ```{r fig.margin = TRUE, echo=FALSE}
 ##Update photo here
 library(knitr)
-include_graphics("images/creatives.jpg")
+include_graphics("images/Creative_Exchange.jpg")
 ```
 
 Modeled after aspects of [Creative Conversations](https://creativeconversations.us/), Creative Exchanges participants gather at monthly meetings at which individuals across the WFU community (open to anyone engaging in self-defined "creative" work) meet to learn about creative work from a featured member of the WFU community, network with others in the group, and explore potential collaborations (digital or otherwise). The first gathering is scheduled for Monday, April 1st.
