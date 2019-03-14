@@ -1,16 +1,11 @@
 name: "WFU Update - LTC at Duke"
-output_dir: "docs"
 navbar:
   title: "WFU Update - LTC at Duke"
-   right:
+  right:
   - text: "WFU Update"
-    icon: fa-book
     href: WFU_update.html
 output:
   html_document:
-    theme: journal
-    highlight: textmate
+    theme: 
+    highlight: 
     css: css/tufte.css
-    df_print: paged
-    toc: true
-    toc_float: yes

@@ -37,16 +37,15 @@ include_graphics("images/lms_process.png")
 
 One project that extends beyond these smaller teams is the current [LMS Evaluation](https://is.wfu.edu/academic-technologies/lms-review/), overseen by the Director of Academic Technology. The process, which has been documented publicly, began with a series of conversations that led to structured focus groups (with staff, faculty, and students) and a needs assessment survey delivered to the campus community. The focus group and survey feedback was incorporated into a formal RFP. Proposals received from vendors were evaluated by a representational committee. This committee selected two LMSs to invite for on-campus presentations during the week of March 25th. Representatives for both Sakai and Canvas[^7] will deliver a [series of demonstrations](https://us18.campaign-archive.com/?e=&u=bea1d79e7a99dd4ba1507c539&id=dd32f72c28) open to the entire campus community. While this effort will not preclude further explorations into [Next-Generation Digital Learing Environments](https://er.educause.edu/articles/2017/7/the-ngdle-we-are-the-architects), discusisons of NGDLEs have not been centered in this process.[^8]   
 
-##Creative Exchanges
-One effort to engage the broader campus community through a grassroots approach is the Creative Exchanges program. 
+##Creative Exchange
+One effort to engage the broader campus community through a grassroots approach is the Creative Exchange program. 
 
 ```{r fig.margin = TRUE, echo=FALSE}
-##Update photo here
 library(knitr)
 include_graphics("images/Creative_Exchange.jpg")
 ```
 
-Modeled after aspects of [Creative Conversations](https://creativeconversations.us/), Creative Exchanges participants gather at monthly meetings at which individuals across the WFU community (open to anyone engaging in self-defined "creative" work) meet to learn about creative work from a featured member of the WFU community, network with others in the group, and explore potential collaborations (digital or otherwise). The first gathering is scheduled for Monday, April 1st.
+Modeled after aspects of [Creative Mornings](https://creativemornings.com/), Creative Exchange participants gather at monthly meetings at which individuals across the WFU community (open to anyone engaging in self-defined "creative" work) meet to learn about creative work from a featured member of the WFU community, network with others in the group, and explore potential collaborations (digital or otherwise). The first gathering is scheduled for Monday, April 1st.
 
 #Supporting Evidence Based Practices in Teaching and Learning
 
